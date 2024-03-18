@@ -7,14 +7,7 @@ function App(){
 
   return (
   <>
-    {/* <div>
-      {data.map((elem,index)=>(
-        <div className="px-3 py-4 w-fit bg-zinc-200 rounded-md">
-          {elem}
-        </div>
-      ))}
-    </div> */}
-    <Card />
+    
 
   </>
   )
