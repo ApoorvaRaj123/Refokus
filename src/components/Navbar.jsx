@@ -1,9 +1,13 @@
 import { React } from "react";
+import Button from "./Button";
+
 
 function Navbar() {
   
 
-  return 
+  return (
+    <Button />
+  )
 }
 
 export default Navbar;
