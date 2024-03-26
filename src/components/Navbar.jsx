@@ -6,7 +6,9 @@ function Navbar() {
   
 
   return (
-    <Button />
+    <div className = "flex items-center justify-spaceBetween">
+      <Button />
+    </div>
   )
 }
 
